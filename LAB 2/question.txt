@@ -1,0 +1,20 @@
+[+] Introduction to compiler 
+=> A compiler is a spacial programe that translate a programing language's code into machine code 
+
+[+] Steps to compiler and run c program
+=> 
+Compile ==> gcc programName.c -o programName
+Run     ==> ./programName 
+
+[+] Shortcuts of editor 
+=> update soon
+
+[+] Types of Files in C programing 
+=> 1) Source Code File
+      .c File
+
+   2) Object File
+      .obj File
+
+   3) Run/Excutable
+      .exe file
