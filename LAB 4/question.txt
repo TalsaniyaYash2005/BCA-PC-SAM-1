@@ -1,0 +1,11 @@
+[+] Write a Programe to print  addician of two numbers ( using scanf )
+=> File:addician.c
+
+[+] Write a Programe to calculat and print average of two numbers ( using scanf )
+=> File:average.c
+
+[+] Write a Programe to calculat and print area of circle ( using scanf )
+=> File:area1.c
+
+[+] Write a Programe to calculat and print area of tryangle ( using scanf )
+=> File:area2.c
