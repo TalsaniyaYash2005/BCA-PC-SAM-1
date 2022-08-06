@@ -30,7 +30,7 @@ pc practical
 | `Write a Programe to print table using \t and \n ` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%203/table.c) |
 | `Write a Programe to print "DU"` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%203/du.c) |
 
-#### LAB 3
+#### LAB 4
 
 | NAME | LINK   |
 | :----------| :--------|
