@@ -18,3 +18,13 @@ name      mark1     mark2    mark3    total
 ravi      50        55       60       165
 sunjuy    70        80       90       240
 => File:table.c
+
+[+] Write a Programe to print
+*******         *       *
+*       *       *       *
+*       *       *       *
+*       *       *       *
+*       *       *       *
+*       *       *       *
+*******         *********
+=> File:average.c
