@@ -9,3 +9,17 @@
 
 [+] Write a Programe to calculat and print area of tryangle ( using scanf )
 => File:area2.c
+
+[+] Write a Programe to calculat simple interest ( using scanf )
+=> File:simple-interest.c
+
+<==  EXTRA ==>
+
+[+] Write a Programe to convart temperature from fahrenheit to celsius ( using printf ) 
+=> File:temperature-f-to-c.c
+
+[+] Write a Programe to find percentage of 5 subject
+=> File:percentageOf5Subject.c
+
+[+] Write a Programe to enter distance in kilometers and convart it into meter, feet, inches and centimeters
+=>File:km-to-m-f-i-cm.c
