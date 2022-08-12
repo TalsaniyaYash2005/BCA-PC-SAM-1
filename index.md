@@ -39,7 +39,11 @@ pc practical
 | `Write a Programe to calculat and print average of two numbers ( using scanf )` | [File](question) |
 | `Write a Programe to calculat and print area of circle ( using scanf )` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%204/area1.c) |
 | `Write a Programe to calculat and print area of tryangle ( using scanf )` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%204/area2.c) |
-
+| `Write a Programe to calculat simple interest ( using scanf )` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%204/simple-interest.c) |
+| `<=== extra ===>`| |
+| `Write a Programe to convart temperature from fahrenheit to celsius ( using printf)`| [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%204/temperature-f-to-c.c) |
+| `Write a Programe to find percentage of 5 subject`| [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%204/percentageOf5Subject.c) |
+| `Write a Programe to enter distance in kilometers and convart it into meter, feet, inches and centimeters`| [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%204/km-to-m-f-i-cm.c) |
 
 
 
