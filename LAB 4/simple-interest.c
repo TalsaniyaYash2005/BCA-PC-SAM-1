@@ -3,11 +3,11 @@
 void main()
 { 
     int p, r, n;
-    printf("exter p: ");
+    printf("enter p: ");
     scanf("%d", &p);
-    printf("exter r: ");
+    printf("enter r: ");
     scanf("%d", &r);
-    printf("exter n: ");
+    printf("enter n: ");
     scanf("%d", &n);
     printf("interest is %d \n ",(p * r * n) / 100);
 }
