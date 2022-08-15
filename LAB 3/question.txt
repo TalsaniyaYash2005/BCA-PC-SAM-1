@@ -27,4 +27,4 @@ sunjuy    70        80       90       240
 *       *       *       *
 *       *       *       *
 *******         *********
-=> File:average.c
+=> File:du.c
