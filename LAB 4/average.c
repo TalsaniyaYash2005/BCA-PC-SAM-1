@@ -7,5 +7,5 @@ void main()
     scanf("%d", &a);
     printf("exter value 2: ");
     scanf("%d", &b);
-    printf("addician of %d and %d is %d ",a ,b , (a + b) / 2);
+    printf("average of %d and %d is %d ",a ,b , (a + b) / 2);
 }
