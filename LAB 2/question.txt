@@ -7,16 +7,16 @@ Compile ==> gcc programName.c -o programName
 Run     ==> ./programName 
 
 [+] Shortcuts of editor 
-=> 1) ctrl + n ==> open new file 
-   2) ctrl + o ==> to open existing file 
-   3) ctrl + s ==> to save file 
-   4) ctrl + q ==> to  quit 
-   5) ctrl + c ==> to copy 
-   6) ctrl + v ==> to past 
-   7) ctrl + z ==> undo 
-   8) ctrl + y ==> redo 
-   9) ctrl + f ==> to find world 
-   10) ctrl + h ==> to replace preeticular world
+=> 1)   ctrl + n   ==>   open new file 
+   2)   ctrl + o   ==>   to open existing file 
+   3)   ctrl + s   ==>   to save file 
+   4)   ctrl + q   ==>   to  quit 
+   5)   ctrl + c   ==>   to copy 
+   6)   ctrl + v   ==>   to past 
+   7)   ctrl + z   ==>   undo 
+   8)   ctrl + y   ==>   redo 
+   9)   ctrl + f   ==>   to find world 
+   10)  ctrl + h   ==>   to replace preeticular world
 
 [+] Types of Files in C programing 
 => 1) Source Code File
