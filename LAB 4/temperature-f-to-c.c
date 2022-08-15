@@ -3,7 +3,7 @@
 void main()
 { 
     float f;
-    printf("exter temperature in fahrenheits: ");
+    printf("enter temperature in fahrenheits: ");
     scanf("%d", &f);
     printf("temperature in celsius is %f \n ", 1.8 * f + 32);
 }
