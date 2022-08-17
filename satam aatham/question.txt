@@ -1,0 +1,19 @@
+[+] WAP to input length in centimeter and convert it to meter and kilometer.
+=> File:lan-convater.c
+
+[+] WAP to input number of days from user and convert it to years.
+=> File:day-year.c
+
+[+] WAP for taking four integer values and perform the following Arithmetic Expressions.
+    a. (a + b) * c / d
+    b. ((a + b) * c) / d
+    c. (a + b) * (c / d)
+    d. a + (b * c) / d
+=> File:art-expr.c
+
+[+] WAP to add Mark1, Mark 2 and Mark 3 and calculate Total and Average for 2 students.
+    Print the following student details using the above hint using \n and \t in printf():
+    Name   | Mark1 | Mark2 | Mark3 | Total | Average
+    Ravi   | 50    | 55    | 60    |       |       %
+    Sanjay | 70    | 80    | 90    |       |       %
+=> File:student-avg.c

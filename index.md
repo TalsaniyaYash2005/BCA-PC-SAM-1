@@ -45,7 +45,11 @@ pc practical
 | `Write a Programe to find percentage of 5 subject`| [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%204/percentageOf5Subject.c) |
 | `Write a Programe to enter distance in kilometers and convart it into meter, feet, inches and centimeters`| [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%204/km-to-m-f-i-cm.c) |
 
+#### LAB 5
 
+| NAME | LINK   |
+| :----------| :--------|
+| `Question` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%205/question.txt) |
 
 ## Feedback
 
