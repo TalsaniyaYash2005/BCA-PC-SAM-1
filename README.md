@@ -56,6 +56,15 @@ pc practical
 | `Write a Programe to fine largest numbers from given three numbers` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%205/largest-no.c) |
 | `Write a Programe to perfome addition, substracten, multiplication and division of 2 numbers as per user's choice` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%205/calc.c) |
 
+
+#### Satam Aatham HW
+| NAME | LINK   |
+| :----------| :--------|
+| `Question` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/satam%20aatham/question.txt) |
+| `Write a Programe to input length in centimeter and convert it to meter and kilometer.` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/satam%20aatham/lan-convater.c) |
+| `Write a Programe to input number of days from user and convert it to years.` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/satam%20aatham/day-year.c) |
+| `Write a Programe for taking four integer values and perform the following Arithmetic Expressions.` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/satam%20aatham/art-expr.c) |
+| `Write a Programe to add Mark1, Mark 2 and Mark 3 and calculate Total and Average for 2 students.` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/satam%20aatham/student-avg.c) |
 ## Feedback
 
 If you have any feedback, please reach out to me at dhruv@chadasaniya.ml
