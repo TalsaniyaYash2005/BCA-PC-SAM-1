@@ -45,7 +45,16 @@ pc practical
 | `Write a Programe to find percentage of 5 subject`| [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%204/percentageOf5Subject.c) |
 | `Write a Programe to enter distance in kilometers and convart it into meter, feet, inches and centimeters`| [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%204/km-to-m-f-i-cm.c) |
 
+#### LAB 5
 
+| NAME | LINK   |
+| :----------| :--------|
+| `Question` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%205/question.txt) |
+|`Write a Programe to check the given number is positive or negative`| [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%205/pos-neg.c) |
+| `Write a Programe to check wharther given numbers given is odd or envn` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%205/odd-even.c) |
+| `Write a Programe to fine larg numbers from given two numbers` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%205/larg-no.c) |
+| `Write a Programe to fine largest numbers from given three numbers` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%205/largest-no.c) |
+| `Write a Programe to perfome addition, substracten, multiplication and division of 2 numbers as per user's choice` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%205/calc.c) |
 
 ## Feedback
 
