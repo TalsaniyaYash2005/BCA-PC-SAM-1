@@ -2,13 +2,13 @@
 
 void main() {
     int a, b, c, d;
-    printf("enter length in centimeter");
+    printf("enter value 1");
     scanf("%d", &a);
-    printf("enter length in centimeter");
+    printf("enter value 2");
     scanf("%d", &b);
-    printf("enter length in centimeter");
+    printf("enter value 3");
     scanf("%d", &c);
-    printf("enter length in centimeter");
+    printf("enter value 4");
     scanf("%d", &d);
 
     int ans1, ans2, ans3, ans4;
