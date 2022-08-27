@@ -12,15 +12,15 @@ void main()
     scanf("%s", &c);
     if (c == '/') {
         printf("division of %d and %d is %d", a, b , a / b);
-    } else if (c == '*') {
+    } 
+    if (c == '*') {
         printf("division of %d and %d is %d", a, b , a  * b);
-    } else if (c == '-') {
+    } 
+    if (c == '-') {
         printf("substracten of %d and %d is %d", a, b , a - b);
-    } else if (c == '+') {
+    } 
+    if (c == '+') {
         printf("addition of %d and %d is %d", a, b , a + b);
-    } else {
-        printf("pls enter + - * / \n");
-
-    }
+    } 
        
 }

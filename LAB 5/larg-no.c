@@ -10,7 +10,8 @@ void main()
     if (a > b)
     {
         printf("%d is bigger then %d", a, b);
-    } else {
+    } 
+    if (a < b) {
         printf("%d is bigger then %d", b, a);
 
     }

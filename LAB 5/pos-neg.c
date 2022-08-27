@@ -8,9 +8,8 @@ void main()
     if (a < 0)
     {
         printf("nnumber %d is negative", a);
-    } else if (a == 0) {
-        printf("you enter 0");
-    } else {
+    } 
+    if (a > 0) {
         printf("nnumber %d is positive", a);
 
     }

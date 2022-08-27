@@ -8,7 +8,8 @@ void main()
     if (a%2 == 0)
     {
         printf("entered number is even");
-    } else {
+    }  
+    if (a%2 != 0) {
         printf("entered number is odd");
 
     }
