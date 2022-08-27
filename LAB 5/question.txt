@@ -13,4 +13,5 @@
 [+] Write a Programe to perfome addition, substracten, multiplication and division of 2 numbers as per user's choice
 => File:calc.c
 
-[+] Write a Programe
+[+] Write a Programe to enter basic salary of an employee and calculate gross aslary according to given conditions 
+=> File:salary.c
