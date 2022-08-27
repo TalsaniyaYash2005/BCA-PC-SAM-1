@@ -55,6 +55,7 @@ pc practical
 | `Write a Programe to fine larg numbers from given two numbers` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%205/larg-no.c) |
 | `Write a Programe to fine largest numbers from given three numbers` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%205/largest-no.c) |
 | `Write a Programe to perfome addition, substracten, multiplication and division of 2 numbers as per user's choice` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%205/calc.c) |
+| `Write a Programe to enter basic salary of an employee and calculate gross aslary according to given conditions` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%205/salary.c) |
 
 
 #### Satam Aatham HW
