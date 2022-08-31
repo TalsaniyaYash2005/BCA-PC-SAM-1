@@ -1,0 +1,19 @@
+do unding if ... else ...
+
+
+[+] Write a Programe to check the given number is positive or negative
+=> File:pos-neg.c
+
+[+] Write a Programe to check wharther given numbers given is odd or envn
+=> File:odd-even.c
+
+[+] Write a Programe to fine larg numbers from given two numbers
+=> File:larg-no.c
+
+[+] Write a Programe to fine largest numbers from given three numbers
+=> File:largest-no.c
+
+[+] Write a Programe to perfome addition, substracten, multiplication and division of 2 numbers as per user's choice
+=> File:calc.c
+
+[+] Write a Programe
