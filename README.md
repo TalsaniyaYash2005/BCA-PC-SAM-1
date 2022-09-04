@@ -87,6 +87,20 @@ pc practical
 | `Write a Programe to add Mark1, Mark 2 and Mark 3 and calculate Total and Average for 2 students.` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/satam%20aatham/student-avg.c) |
 
 
+#### LAB 7
+
+| NAME | LINK   |
+| :----------| :--------|
+| `Question` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%206/question.txt) |
+| using else |
+|`Write a Programe to check the given number is positive or negative `| [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%206/pos-neg.c) |
+| `Write a Programe to check wharther given numbers given is odd or envn using else` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%206/odd-even.c) |
+| `Write a Programe to fine larg numbers from given two numbers using else` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%206/larg-no.c) |
+| Using nested if |
+| `Write a Programe to find out largest number from given three numbers without using Logical Operator (&&)` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%206/largest-no.c) |
+| `Write a Programe to enter basic salary of an employee and calculate Gross salary according to given conditions:` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%206/salary.c) |
+
+
 ## Feedback
 
 If you have any feedback, please reach out to me at dhruv@chadasaniya.ml
