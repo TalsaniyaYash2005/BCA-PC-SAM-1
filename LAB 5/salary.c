@@ -2,28 +2,28 @@
 
 void main()
 {
-    int sal;
+    int salary;
     printf("enter your salary: ");
-    scanf("%d", &sal);
+    scanf("%d", &salary);
 
-    if (sal >= 10000 && sal < 20000) {
-        int da = ( sal * 80 ) / 100; 
-        int hra = ( sal * 20 ) / 100;
+    if (salary >= 10000 && salary < 20000) {
+        int da = ( salary * 80 ) / 100; 
+        int hra = ( salary * 20 ) / 100;
 
-        printf("your gross salary is %d ", sal + hra + da);
+        printf("your gross salary is %d ", salary + hra + da);
     }
 
-     if (sal >= 20000 && sal < 30000) {
-        int da = ( sal * 90 ) / 100; 
-        int hra = ( sal * 25 ) / 100;
+     if (salary >= 20000 && salary < 30000) {
+        int da = ( salary * 90 ) / 100; 
+        int hra = ( salary * 25 ) / 100;
 
-        printf("your gross salary is %d ", sal + hra + da);
+        printf("your gross salary is %d ", salary + hra + da);
     }
-     if (sal >= 30000) {
-        int da = ( sal * 95 ) / 100; 
-        int hra = ( sal * 30 ) / 100;
+     if (salary >= 30000) {
+        int da = ( salary * 95 ) / 100; 
+        int hra = ( salary * 30 ) / 100;
 
-        printf("your gross salary is %d ", sal + hra + da);
+        printf("your gross salary is %d ", salary + hra + da);
     }
     
     
