@@ -1,0 +1,18 @@
+==> do Using Ladder if ... else
+
+[+] Write a Programe to check whether the given year is leap year or not.
+=> File:leep-year.c
+
+[+] Write a Programe to check whether the entered character is capital, small letter, digit or any special character.
+=> File:char-check.c
+
+[+] Write a Programe to read marks of five subjects. Calculate percentage and print class accordingly. Fail below 35, Pass Class between 35 to 45, Second Class between 45 to 60, First Class between 60 to 70, Distinction if more than 70
+File:percentage-calc.c
+
+===> do Using Conditional operator
+
+[+] Write a Programe to find out largest number from given 2 numbers
+File:conditional-two-numbers.c
+
+[+] Write a Programe to find out largest number from given 3 numbers
+File:conditional-three-numbers.c
