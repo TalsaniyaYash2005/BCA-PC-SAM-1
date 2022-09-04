@@ -68,7 +68,7 @@ pc practical
 | `Write a Programe to fine larg numbers from given two numbers using else` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%206/larg-no.c) |
 | Using nested if |
 | `Write a Programe to find out largest number from given three numbers without using Logical Operator (&&)` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%206/largest-no.c) |
-| `Write a Programe P to enter basic salary of an employee and calculate Gross salary according to given conditions:` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%206/salary.c) |
+| `Write a Programe to enter basic salary of an employee and calculate Gross salary according to given conditions:` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%206/salary.c) |
 
 ```
   Basic Salary >= 10000 : DA = 80% of basic salary, HRA = 20% of basic salary 
