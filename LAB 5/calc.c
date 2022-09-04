@@ -14,7 +14,7 @@ void main()
         printf("division of %f and %f is %f", a, b , a / b);
     } 
     if (c == '*') {
-        printf("division of %f and %f is %f", a, b , a  * b);
+        printf("multiplication of %f and %f is %f", a, b , a  * b);
     } 
     if (c == '-') {
         printf("substracten of %f and %f is %f", a, b , a - b);
