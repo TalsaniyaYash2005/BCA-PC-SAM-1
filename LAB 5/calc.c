@@ -2,25 +2,25 @@
 
 void main()
 {
-    int a, b;
+    float a, b;
     char c;
     printf("enter first number: ");
-    scanf("%d", &a);
+    scanf("%f", &a);
     printf("enter second number: ");
-    scanf("%d", &b);
+    scanf("%f", &b);
     printf("what you want to do addition [+], substracten [-], multiplication [*] and division [/] : \n");
     scanf("%s", &c);
     if (c == '/') {
-        printf("division of %d and %d is %d", a, b , a / b);
+        printf("division of %f and %f is %f", a, b , a / b);
     } 
     if (c == '*') {
-        printf("division of %d and %d is %d", a, b , a  * b);
+        printf("division of %f and %f is %f", a, b , a  * b);
     } 
     if (c == '-') {
-        printf("substracten of %d and %d is %d", a, b , a - b);
+        printf("substracten of %f and %f is %f", a, b , a - b);
     } 
     if (c == '+') {
-        printf("addition of %d and %d is %d", a, b , a + b);
+        printf("addition of %f and %f is %f", a, b , a + b);
     } 
        
 }
