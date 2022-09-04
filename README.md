@@ -62,11 +62,19 @@ pc practical
 | NAME | LINK   |
 | :----------| :--------|
 | `Question` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%206/question.txt) |
-|`Write a Programe to check the given number is positive or negative using else`| [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%206/pos-neg.c) |
+| using else |
+|`Write a Programe to check the given number is positive or negative `| [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%206/pos-neg.c) |
 | `Write a Programe to check wharther given numbers given is odd or envn using else` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%206/odd-even.c) |
 | `Write a Programe to fine larg numbers from given two numbers using else` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%206/larg-no.c) |
-| `Write a Programe to fine largest numbers from given three numbers using else` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%206/largest-no.c) |
-| `Write a Programe to enter basic salary of an employee and calculate gross aslary according to given conditions using else` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%206/salary.c) |
+| Using nested if |
+| `Write a Programe to find out largest number from given three numbers without using Logical Operator (&&)` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%206/largest-no.c) |
+| `Write a Programe P to enter basic salary of an employee and calculate Gross salary according to given conditions:` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%206/salary.c) |
+
+```
+  Basic Salary >= 10000 : DA = 80% of basic salary, HRA = 20% of basic salary 
+  Basic Salary >= 20000 : DA = 90% of basic salary, HRA = 25% of basic salary 
+  Basic Salary >= 30000 : DA = 95% of basic salary, HRA = 30% of basic salary
+```
 
 
 #### Satam Aatham HW
