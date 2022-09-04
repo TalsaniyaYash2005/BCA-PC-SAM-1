@@ -12,7 +12,4 @@ void main()
         printf("nnumber %d is positive", a);
 
     }
-    
-    
-       
 }
