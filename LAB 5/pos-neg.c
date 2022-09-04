@@ -5,8 +5,7 @@ void main()
     int a, b;
     printf("enter first number: ");
     scanf("%d", &a);
-    if (a < 0)
-    {
+    if (a < 0) {
         printf("nnumber %d is negative", a);
     } 
     if (a > 0) {

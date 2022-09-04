@@ -7,8 +7,7 @@ void main()
     scanf("%d", &a);
     printf("enter second number: ");
     scanf("%d", &b);
-    if (a > b)
-    {
+    if (a > b) {
         printf("%d is bigger then %d", a, b);
     } 
     if (a < b) {
