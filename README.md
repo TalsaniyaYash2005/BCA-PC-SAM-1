@@ -92,13 +92,13 @@ pc practical
 | NAME | LINK   |
 | :----------| :--------|
 | `Question` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%206/question.txt) |
-| using else |
-|`Write a Programe to check the given number is positive or negative `| [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%206/pos-neg.c) |
-| `Write a Programe to check wharther given numbers given is odd or envn using else` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%206/odd-even.c) |
-| `Write a Programe to fine larg numbers from given two numbers using else` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%206/larg-no.c) |
-| Using nested if |
-| `Write a Programe to find out largest number from given three numbers without using Logical Operator (&&)` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%206/largest-no.c) |
-| `Write a Programe to enter basic salary of an employee and calculate Gross salary according to given conditions:` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%206/salary.c) |
+| Using Ladder if ... else |
+|`Write a Programe to check whether the given year is leap year or not.`| [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%207/leep-year.c) |
+| `Write a Programe to check whether the entered character is capital, small letter, digit or any special character.` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%207/char-check.c) |
+| `Write a Programe to read marks of five subjects. Calculate percentage and print class accordingly. Fail below 35, Pass Class between 35 to 45, Second Class between 45 to 60, First Class between 60 to 70, Distinction if more than 70` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%207/percentage-calc.c) |
+| Using Conditional operator (expr1?expr2:expr3) |
+| `Write a Programe to find out largest number from given 2 numbers` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%207/conditional-two-numbers.c) |
+| `Write a Programe to find out largest number from given 3 numbers` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%207/conditional-three-numbers.c) |
 
 
 ## Feedback
