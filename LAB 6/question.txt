@@ -14,6 +14,4 @@ do unding if ... else ...
 => File:largest-no.c
 
 [+] Write a Programe to perfome addition, substracten, multiplication and division of 2 numbers as per user's choice
-=> File:calc.c
-
-[+] Write a Programe
+=> File:salary.c
