@@ -13,5 +13,5 @@ do unding if ... else ...
 [+] Write a Programe to fine largest numbers from given three numbers
 => File:largest-no.c
 
-[+] Write a Programe to perfome addition, substracten, multiplication and division of 2 numbers as per user's choice
+[+] Write a Programe to enter basic salary of an employee and calculate gross aslary according to given conditions
 => File:salary.c
