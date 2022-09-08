@@ -1,0 +1,11 @@
+[+] Write a Programe to print sum of 1 to n numbers
+File:1-to-n.c
+
+[+] Write a Programe to calculate 𝑥 power by y without using power function
+File:power.c
+
+[+] Write a Programe to print digits of the given number
+File:digits.c
+
+[+] Write a Programe to print sum of digits of given number
+File:digits-sum.c
