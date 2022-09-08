@@ -100,6 +100,29 @@ pc practical
 | `Write a Programe to find out largest number from given 2 numbers` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%207/conditional-two-numbers.c) |
 | `Write a Programe to find out largest number from given 3 numbers` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%207/conditional-three-numbers.c) |
 
+#### LAB 8
+
+| NAME | LINK   |
+| :----------| :--------|
+| `Question` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%208/question.txt) |
+| Using Ladder if ... else |
+|`Write a Programe to print day name based on day number`| [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%207/leep-year.c) |
+| `Write a Programe to print number of days in the given month` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%207/char-check.c) |
+| `Write a Programe to input two numbers and arithmetic operators (+, -, *, /) from user. Perform operation on entered numbers according to operator using switch case` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%207/percentage-calc.c) |
+| `Create a menu driven program with options of positive, negative, zero to find whether the entered number is positive, negative or zero. When the option is entered by the user it should be executed. If user enters wrong option give an appropriate message.` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%207/menu.c)|
+
+#### LAB 9
+
+| NAME | LINK   |
+| :----------| :--------|
+| `Question` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%209/question.txt) |
+| Using Ladder if ... else |
+|`Write a Programe to print 1 to 10`| [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%209/1-to-10.c) |
+| `Write a Programe to print 1 to n` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%209/1-to-n.c) |
+| `Write a Programe print odd numbers between 1 to n` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%209/odd-1-to-n.c) |
+| `Write a Programe print even numbers between 1 to n and its sum` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%209/enen-sum-1-to-n.c)|
+| `Write a Programe to print numbers between two given numbers which is divisible by 2 but not divisible by 3` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%209/two-numbers.c) |
+
 
 ## Feedback
 

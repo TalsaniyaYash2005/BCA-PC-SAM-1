@@ -120,7 +120,8 @@ pc practical
 |`Write a Programe to print 1 to 10`| [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%209/1-to-10.c) |
 | `Write a Programe to print 1 to n` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%209/1-to-n.c) |
 | `Write a Programe print odd numbers between 1 to n` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%209/odd-1-to-n.c) |
-| `Write a Programe print even numbers between 1 to n and its sum` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%207/menu.c)|
+| `Write a Programe print even numbers between 1 to n and its sum` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%209/enen-sum-1-to-n.c)|
+| `Write a Programe to print numbers between two given numbers which is divisible by 2 but not divisible by 3` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%209/two-numbers.c) |
 
 
 ## Feedback
