@@ -1,0 +1,16 @@
+==> do using switch
+
+[+] Write a Programe to print 1 to 10
+File:1-to-10.c
+
+[+] Write a Programe to print 1 to n
+File:1-to-n.c
+
+[+] Write a Programe print odd numbers between 1 to n
+File:odd-1-to-n.c
+
+[+] Write a Programe print even numbers between 1 to n and its sum
+File:odd-sum-1-to-n.c
+
+[+] Write a Programe to print numbers between two given numbers which is divisible by 2 but not divisible by 3
+File:two-numbers.c
