@@ -12,4 +12,4 @@ File:calc.c
 ==> Extra
 
 [+] Create a menu driven program with options of positive, negative, zero to find whether the entered number is positive, negative or zero. When the option is entered by the user it should be executed. If user enters wrong option give an appropriate message.
-File:soon.c
+File:menu.c
