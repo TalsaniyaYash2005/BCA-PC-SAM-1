@@ -1,0 +1,15 @@
+==> do using switch
+
+[+] Write a Programe to print day name based on day number
+File:num-day.c
+
+[+] Write a Programe to print number of days in the given month
+File:num-month.c
+
+[+] Write a Programe to input two numbers and arithmetic operators (+, -, *, /) from user. Perform operation on entered numbers according to operator using switch case
+File:calc.c 
+
+==> Extra
+
+[+] Create a menu driven program with options of positive, negative, zero to find whether the entered number is positive, negative or zero. When the option is entered by the user it should be executed. If user enters wrong option give an appropriate message.
+File:soon.c

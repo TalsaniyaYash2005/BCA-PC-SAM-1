@@ -23,11 +23,11 @@ void main() {
 
     if (percentage < 35) {
         printf("student failed. percentage is %f", percentage);
-    } else if (percentage >= 35 || percentage < 45) {
+    } else if (percentage >= 35 && percentage < 45) {
         printf("student is in the Pass Class. percentage is %f", percentage);
-    } else if (percentage >= 45 || percentage < 60) {
+    } else if (percentage >= 45 && percentage < 60) {
         printf("student is in the Second Class. percentage is %f", percentage);
-    } else if (percentage >= 60 || percentage <= 70) {
+    } else if (percentage >= 60 && percentage <= 70) {
         printf("student is in the First Class. percentage is %f", percentage);
     } else {
         // Distinction idk what that mean
