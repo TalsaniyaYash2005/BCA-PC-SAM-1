@@ -111,6 +111,17 @@ pc practical
 | `Write a Programe to input two numbers and arithmetic operators (+, -, *, /) from user. Perform operation on entered numbers according to operator using switch case` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%207/percentage-calc.c) |
 | `Create a menu driven program with options of positive, negative, zero to find whether the entered number is positive, negative or zero. When the option is entered by the user it should be executed. If user enters wrong option give an appropriate message.` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%207/menu.c)|
 
+#### LAB 9
+
+| NAME | LINK   |
+| :----------| :--------|
+| `Question` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%209/question.txt) |
+| Using Ladder if ... else |
+|`Write a Programe to print 1 to 10`| [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%209/1-to-10.c) |
+| `Write a Programe to print 1 to n` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%209/1-to-n.c) |
+| `Write a Programe print odd numbers between 1 to n` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%209/odd-1-to-n.c) |
+| `Write a Programe print even numbers between 1 to n and its sum` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%207/menu.c)|
+
 
 ## Feedback
 
