@@ -10,8 +10,7 @@ void main() {
 
     while (index < powerOfX) {
         index++;
-
         power = power * no;
     }
-       printf("%d \n", power);
+    printf("%d \n", power);
 }

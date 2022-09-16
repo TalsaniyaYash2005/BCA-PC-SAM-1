@@ -25,8 +25,10 @@ void main() {
 
     case '/':
         printf("division of %f and %f is %f", val1, val2 , val1 / val2);
+        // printf("%f / %f = %f", val1, val2 , val1 / val2);
         break;
     default:
+        printf("pls enter valid choice");
         break;
     }
 }
