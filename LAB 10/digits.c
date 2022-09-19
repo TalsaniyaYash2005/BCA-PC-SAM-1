@@ -8,12 +8,12 @@ int main()
 
     int i = 0;
     int arr[100];
-    int i2, r;
+    int i2, temp;
     
     while (number != 0) {
-        r = number % 10;
+        temp = number % 10;
 
-        arr[i] = r;
+        arr[i] = temp;
         i++;
 
         number = number / 10;
