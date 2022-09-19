@@ -124,6 +124,17 @@ pc practical
 | `Write a Programe to print numbers between two given numbers which is divisible by 2 but not divisible by 3` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%209/two-numbers.c) |
 
 
+#### LAB 10
+
+| NAME | LINK |
+| :----------| :--------|
+| `Question` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%2010/question.txt) |
+| `Write a Programe to print sum of 1 to n numbers` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%2010/1-to-n.c) |
+| `Write a Programe to calculate 𝑥 power by y without using power function` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%2010/power.c) |
+| `Write a Programe to print digits of the given number` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%2010/digits.c) |
+| `Write a Programe to print sum of digits of given number` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%2010/digits-sum.c) |
+| `<=== extra ===>`| |
+
 ## Feedback
 
 If you have any feedback, please reach out to me at dhruv@chadasaniya.ml

@@ -105,6 +105,7 @@ pc practical
 | NAME | LINK   |
 | :----------| :--------|
 | `Question` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%208/question.txt) |
+| Using Ladder if ... else |
 |`Write a Programe to print day name based on day number`| [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%208/num-day.c) |
 | `Write a Programe to print number of days in the given month` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%208/num-month.c) |
 | `Write a Programe to input two numbers and arithmetic operators (+, -, *, /) from user. Perform operation on entered numbers according to operator using switch case` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%208/calc.c) |
@@ -115,12 +116,24 @@ pc practical
 | NAME | LINK   |
 | :----------| :--------|
 | `Question` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%209/question.txt) |
+| Using Ladder if ... else |
 |`Write a Programe to print 1 to 10`| [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%209/1-to-10.c) |
 | `Write a Programe to print 1 to n` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%209/1-to-n.c) |
 | `Write a Programe print odd numbers between 1 to n` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%209/odd-1-to-n.c) |
 | `Write a Programe print even numbers between 1 to n and its sum` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%209/enen-sum-1-to-n.c)|
 | `Write a Programe to print numbers between two given numbers which is divisible by 2 but not divisible by 3` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%209/two-numbers.c) |
 
+
+#### LAB 10
+
+| NAME | LINK |
+| :----------| :--------|
+| `Question` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%2010/question.txt) |
+| `Write a Programe to print sum of 1 to n numbers` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%2010/1-to-n.c) |
+| `Write a Programe to calculate 𝑥 power by y without using power function` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%2010/power.c) |
+| `Write a Programe to print digits of the given number` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%2010/digits.c) |
+| `Write a Programe to print sum of digits of given number` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%2010/digits-sum.c) |
+| `<=== extra ===>`| |
 
 ## Feedback
 
