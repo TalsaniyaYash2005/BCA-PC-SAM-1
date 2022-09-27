@@ -16,4 +16,8 @@ File:digits-sum.c
 [+] Write a Programe to find whether the given number is perfect or not
 File:perfect-no.c
 
-[+]
+[+] Write a Programe to find Armstrong of the given number
+File:Armstrong-Number.c
+
+[+] Write a Programe to check whether the given number is palindrome or not
+File:palindrome.c

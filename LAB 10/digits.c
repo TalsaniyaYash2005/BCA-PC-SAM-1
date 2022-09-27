@@ -12,6 +12,7 @@ int main()
     while (number != 0) {
 
         arr[i] = number % 10;
+        printf("%d \n", number % 10);
         i++;
 
         number = number / 10;

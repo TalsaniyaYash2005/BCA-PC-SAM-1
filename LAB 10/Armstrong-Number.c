@@ -1,13 +1,14 @@
 #include<stdio.h>
 
 // abcd... = an + bn + cn + dn + ...
+
 // 153 = 1*1*1 + 5*5*5 + 3*3*3  // 153 is an Armstrong number.
 
 // 1234 = 1*1*1*1 + 2*2*2*2 + 3*3*3*3 + 4*4*4*4 
 
 // if num and sum is equl then its armstrong number
 
-// https://www.programiz.com/python-programming/examples/armstrong-number#:~:text=In%20case%20of%20an%20Armstrong,153%20is%20an%20Armstrong%20number.
+// https://www.programiz.com/python-programming/examples/armstrong-number#:~:text=In%20case%20of%20an%20Armstrong,153%20is%20an%20Armstrong%20number
 
 void main() {
     int num, sum = 00, temp, totalDigit = 0, i = 0;
@@ -26,17 +27,11 @@ void main() {
 
     for (int i = totalDigit - 1; i > -1; i--)
     {
-        // printf("totalDigit is %d \n", totalDigit);
-
-        // printf("arr[%d] is %d \n", i, arr[i]);
         power = 1 , index = 0;
         do {
         index++;
         power = power * arr[i];
         } while (index < totalDigit);
-
-        // printf("power = %d", power);
-
         sum = sum + power;
     }
     
