@@ -1,5 +1,6 @@
 #include<stdio.h>
 
+
 // a b c d == d c b a 
 // 2002 == 2002
 // but

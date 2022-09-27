@@ -7,11 +7,11 @@ int main()
     scanf("%d", &number);
 
     int i = 0;
-    int arr[100];
+    // int arr[100];
     
     while (number != 0) {
 
-        arr[i] = number % 10;
+        // arr[i] = number % 10;
         printf("%d \n", number % 10);
         i++;
 
@@ -19,9 +19,9 @@ int main()
         
     }
 
-    for (i = i - 1; i > -1; i--) {
-        printf("%d \n", arr[i]);
-    }
+    // for (i = i - 1; i > -1; i--) {
+    //     printf("%d \n", arr[i]);
+    // }
     
 
     return 0;
