@@ -8,20 +8,20 @@ int main()
 
     int i = 0;
     int arr[100];
-    int i2, temp;
     
     while (number != 0) {
-        temp = number % 10;
 
-        arr[i] = temp;
+        arr[i] = number % 10;
         i++;
 
         number = number / 10;
+        
     }
 
-    for (i2 = i - 1; i2 > -1; i2--) {
-        printf("%d \n", arr[i2]);
+    for (i = i - 1; i > -1; i--) {
+        printf("%d \n", arr[i]);
     }
+    
 
     return 0;
 }

@@ -8,9 +8,17 @@ void main() {
     printf("enter power value of %d : ", no);
     scanf("%d", &powerOfX);
 
-    while (index < powerOfX) {
+    // while (index < powerOfX) {
+    //     index++;
+    //     power = power * no;
+    // }
+
+    // OR
+
+    do {
         index++;
         power = power * no;
-    }
+    } while (index < powerOfX);
+    
     printf("%d \n", power);
 }

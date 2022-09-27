@@ -1,8 +1,11 @@
+==> do using do while loop
 [+] Write a Programe to print sum of 1 to n numbers
 File:1-to-n.c
 
 [+] Write a Programe to calculate 𝑥 power by y without using power function
 File:power.c
+
+==> do using for loop
 
 [+] Write a Programe to print digits of the given number
 File:digits.c
