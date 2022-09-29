@@ -1,0 +1,5 @@
+[+] Write a Programe to find factors of the given number
+File:factors.c
+
+[+] Write a Programe to find factorial of the given number
+File:factorial.c

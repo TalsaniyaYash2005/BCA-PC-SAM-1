@@ -6,14 +6,14 @@ int main()
     printf("enter number : ");
     scanf("%d", &number);
 
-    int i = 0;
+    // int i = 0;
     // int arr[100];
     
     while (number != 0) {
 
         // arr[i] = number % 10;
         printf("%d \n", number % 10);
-        i++;
+        // i++;
 
         number = number / 10;
         
