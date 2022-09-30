@@ -134,6 +134,9 @@ pc practical
 | `Write a Programe to print digits of the given number` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%2010/digits.c) |
 | `Write a Programe to print sum of digits of given number` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%2010/digits-sum.c) |
 | `<=== extra ===>`| |
+| `Write a Programe to find whether the given number is perfect or not` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%2010/perfect-no.c) |
+| `Write a Programe to find Armstrong of the given number` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%2010/Armstrong-Number.c) |
+| `Write a Programe to check whether the given number is palindrome or not` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%2010/palindrome.c) |
 
 ## Feedback
 
