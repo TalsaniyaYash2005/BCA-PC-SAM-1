@@ -4,4 +4,8 @@ File:factors.c
 [+] Write a Programe to find factorial of the given number
 File:factorial.c
 
-[+] 
+[+] Write a Programe to print given number in reverse order
+File:revarce-order.c
+
+[+] Write a Programe to find whether the given number is prime or not
+File:prime-no.c
