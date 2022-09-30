@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main()
+void main()
 {
     int number;
     printf("enter number : ");
@@ -23,6 +23,4 @@ int main()
     //     printf("%d \n", arr[i]);
     // }
     
-
-    return 0;
 }
