@@ -138,6 +138,19 @@ pc practical
 | `Write a Programe to find Armstrong of the given number` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%2010/Armstrong-Number.c) |
 | `Write a Programe to check whether the given number is palindrome or not` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%2010/palindrome.c) |
 
+#### LAB 11
+
+| NAME | LINK |
+| :----------| :--------|
+| `Question` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%2011/question.txt) |
+| `Write a Programe to find factors of the given number` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%2011/factors.c) |
+| `Write a Programe to find factorial of the given number` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%2011/factorial.c) |
+| `Write a Programe to print given number in reverse order` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%2011/revarce-order.c) |
+| `Write a Programe to find whether the given number is prime or not` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%2011/prime-no.c) |
+| `Write a Programe to print sum of series 1 + 4 + 9 + 16 + 25 + 36 + …n` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%2011/sum-of-series1.c) |
+| `Write a Programe to print sum of series 1 – 2 + 3 – 4 + 5 – 6 + 7 … n` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%2011/sum-of-series2.c) |
+| `Write a Programe to print sum of series 1 + 1/2 + 1/3 + 1/4 + 1/5 + ⋯ + 1/n` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%2011/sum-of-series3.c) |
+
 ## Feedback
 
 If you have any feedback, please reach out to me at dhruv@chadasaniya.ml
