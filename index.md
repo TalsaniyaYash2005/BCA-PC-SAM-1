@@ -151,6 +151,7 @@ pc practical
 | `Write a Programe to print sum of series 1 – 2 + 3 – 4 + 5 – 6 + 7 … n` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%2011/sum-of-series2.c) |
 | `Write a Programe to print sum of series 1 + 1/2 + 1/3 + 1/4 + 1/5 + ⋯ + 1/n` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%2011/sum-of-series3.c) |
 
+#### LAB 12
 | NAME | LINK |
 | :----------| :--------|
 | `Question` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%2012/question.txt) |
