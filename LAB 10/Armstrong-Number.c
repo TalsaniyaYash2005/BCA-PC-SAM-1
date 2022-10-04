@@ -32,6 +32,7 @@ void main() {
         index++;
         power = power * arr[i];
         } while (index < totalDigit);
+        
         sum = sum + power;
     }
     

@@ -138,6 +138,8 @@ pc practical
 | `Write a Programe to find Armstrong of the given number` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%2010/Armstrong-Number.c) |
 | `Write a Programe to check whether the given number is palindrome or not` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%2010/palindrome.c) |
 
+
+
 ## Feedback
 
 If you have any feedback, please reach out to me at dhruv@chadasaniya.ml
