@@ -151,6 +151,12 @@ pc practical
 | `Write a Programe to print sum of series 1 – 2 + 3 – 4 + 5 – 6 + 7 … n` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%2011/sum-of-series2.c) |
 | `Write a Programe to print sum of series 1 + 1/2 + 1/3 + 1/4 + 1/5 + ⋯ + 1/n` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%2011/sum-of-series3.c) |
 
+| NAME | LINK |
+| :----------| :--------|
+| `Question` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%2012/question.txt) |
+| `Write a Programe to find out prime numbers between given two numbers` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%2012/prime-numbers.c) |
+| `Write a Programe to print Multiplication Table up to n` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%2012/table.c) |
+| `Write a Programe to find the sum of 1 + (1+2) + (1+2+3) + (1+2+3+4) + …+(1+2+3+4+….+n)` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%2012/sum-of-n.c) |
 ## Feedback
 
 If you have any feedback, please reach out to me at dhruv@chadasaniya.ml
