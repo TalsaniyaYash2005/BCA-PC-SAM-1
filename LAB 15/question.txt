@@ -1,0 +1,5 @@
+[+] Write a Programe to print 10 numbers using array
+File:10-numbers.c 
+
+[+] Write a Programe to count number of even or odd number from an array of n numbers
+File:count-odd-even.c
