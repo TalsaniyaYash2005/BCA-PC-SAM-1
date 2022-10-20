@@ -5,7 +5,7 @@
 void main()
 {
     int i, num, sum = 0;
-    printf("Enter any number to check perfect number: ");
+    printf("Enter any number to factors: ");
     scanf("%d", &num);
     printf("factors is");
     for(i = 1; i <= num; i++)

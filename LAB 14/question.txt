@@ -1,0 +1,30 @@
+[+] Write a Programe to display following patterns
+
+(A) 
+
+* * * * * * * 
+  * * * * *
+    * * *
+      * 
+File:A/1.c 
+
+A A A A A 
+B B B B
+C C C
+D D
+E
+File:A/2.c 
+
+A B C D E 
+A B C D
+A B C
+A B
+A
+File:A/3.c 
+
+5 5 5 5 5 
+4 4 4 4
+3 3 3
+2 2
+1
+FileA/4.c 
