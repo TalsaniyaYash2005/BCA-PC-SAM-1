@@ -158,6 +158,148 @@ pc practical
 | `Write a Programe to find out prime numbers between given two numbers` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%2012/prime-numbers.c) |
 | `Write a Programe to print Multiplication Table up to n` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%2012/table.c) |
 | `Write a Programe to find the sum of 1 + (1+2) + (1+2+3) + (1+2+3+4) + …+(1+2+3+4+….+n)` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%2012/sum-of-n.c) |
+
+#### LAB 13
+| NAME | LINK |
+| :----------| :--------|
+| `Question` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%2013/question.txt) |
+| `Write a Programe to display following patterns` |  |
+
+```
+*
+* *
+* * *
+* * * *
+* * * * * *
+```
+File: [Pattern (A) 1](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%2013/A/1.c)
+
+```
+1
+1 2
+1 2 3
+1 2 3 4
+1 2 3 4 5
+```
+File: [Pattern (A) 2](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%2013/A/2.c)
+
+```
+1
+2 3
+4 5 6
+7 8 9 10
+```
+File: [Pattern (A) 3](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%2013/A/3.c)
+
+```
+1
+0 1
+1 0 1
+0 1 0 1
+```
+File: [Pattern (A) 4](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%2013/A/4.c)
+
+```
+* * * * *
+* * * *
+* * *
+* *
+*
+```
+File: [Pattern (A) 5](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%2013/A/5.c)
+
+```
+1 2 3 4 5
+1 2 3 4
+1 2 3
+1 2
+1
+```
+File: [Pattern (A) 6](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%2013/A/6.c)
+
+```
+      * 
+    * * * 
+  * * * * * 
+* * * * * * *
+```
+File: [Pattern (A) 7](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%2013/A/7.c)
+
+```
+        * 
+      * *
+    * * *
+  * * * * 
+* * * * *
+```
+File: [Pattern (B) 1](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%2013/B/1.c)
+
+```
+        1 
+      2 2 2
+    3 3 3 3 3
+  4 4 4 4 4 4 4
+5 5 5 5 5 5 5 5 5
+```
+File: [Pattern (B) 2](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%2013/B/2.c)
+
+```
+* * * * * 
+*       *
+*       *
+*       *
+* * * * *
+```
+File: [Pattern (B) 3](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%2013/B/3.c)
+
+#### LAB 14
+| NAME | LINK |
+| :----------| :--------|
+| `Question` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%2014/question.txt) |
+| `Write a Programe to display following patterns` |  |
+
+```
+* * * * * * * 
+  * * * * *
+    * * *
+      * 
+```
+File: [Pattern 1](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%2014/A/1.c)
+
+```A A A A A 
+B B B B
+C C C
+D D
+E
+```
+File: [Pattern 2](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%2014/A/2.c)
+
+```
+A B C D E 
+A B C D
+A B C
+A B
+A
+```
+File: [Pattern 3](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%2014/A/3.c)
+
+```
+5 5 5 5 5 
+4 4 4 4
+3 3 3
+2 2
+1
+```
+File: [Pattern 4](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%2014/A/4.c)
+
+```
+      1 
+    A B C 
+  2 3 4 5 6 
+D E F G H I J 
+```
+File: [Pattern 5](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%2014/B/1.c)
+
 ## Feedback
 
 If you have any feedback, please reach out to me at dhruv@chadasaniya.ml
