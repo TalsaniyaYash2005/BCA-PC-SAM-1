@@ -158,6 +158,12 @@ pc practical
 | `Write a Programe to find out prime numbers between given two numbers` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%2012/prime-numbers.c) |
 | `Write a Programe to print Multiplication Table up to n` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%2012/table.c) |
 | `Write a Programe to find the sum of 1 + (1+2) + (1+2+3) + (1+2+3+4) + …+(1+2+3+4+….+n)` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%2012/sum-of-n.c) |
+
+#### LAB 13
+| NAME | LINK |
+| :----------| :--------|
+| `Question` | [File](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%2013/question.txt) |
+
 ## Feedback
 
 If you have any feedback, please reach out to me at dhruv@chadasaniya.ml
