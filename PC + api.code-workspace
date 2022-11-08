@@ -5,6 +5,9 @@
 		},
 		{
 			"path": "../../../../XAMPP/htdocs/api"
+		},
+		{
+			"path": "../../../JIOTV CDN"
 		}
 	],
 	"settings": {

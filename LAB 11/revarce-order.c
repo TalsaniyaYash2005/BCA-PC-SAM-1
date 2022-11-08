@@ -4,11 +4,14 @@ void main() {
     int num;
     printf("enter any number: ");
     scanf("%d", &num);
-    printf("revarce order is ");
+    int sum = 0;
     while (num != 0)
     {
-        printf("%d", num % 10);
+        sum = sum * 10;
+        sum = sum + (num % 10);
         num = num / 10;
     }
+
     
+    printf("revarce order is %d", sum);
 }

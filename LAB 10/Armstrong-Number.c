@@ -8,7 +8,6 @@
 
 // if num and sum is equl then its armstrong number
 
-// https://www.programiz.com/python-programming/examples/armstrong-number#:~:text=In%20case%20of%20an%20Armstrong,153%20is%20an%20Armstrong%20number
 
 void main() {
     int num, sum = 00, temp, totalDigit = 0, i = 0;

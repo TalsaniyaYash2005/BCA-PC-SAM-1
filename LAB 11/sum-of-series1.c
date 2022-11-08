@@ -5,6 +5,7 @@ void main() {
     printf("pls enter number to print series: ");
     scanf("%d", &num);
     printf("series is");
+    
     for (int i = 1; i <= num; i++) {
         sum = sum + (i * i);
         printf(" %d ", i * i);

@@ -3,3 +3,9 @@ File:10-numbers.c
 
 [+] Write a Programe to count number of even or odd number from an array of n numbers
 File:count-odd-even.c
+
+[+] Write a Programe to read n numbers in an array and print them in reverse order
+File:reverse-order-arr.c
+
+[+] Write a Programe to find Max, Min, Sum of given numbers from an array
+File:max-min-sum.c
