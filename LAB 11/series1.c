@@ -14,6 +14,6 @@ void main() {
         
     }
     
-    printf("sum is %d ", sum);
+    printf("= %d ", sum);
 }
 
