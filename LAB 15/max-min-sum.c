@@ -18,10 +18,8 @@ void main()
     for (int i = 0; i < n; i++)
     {
         sum = sum + arr[i];
-        if (min > arr[i])
-            min = arr[i];
-        if (max < arr[i])
-            max = arr[i];
+        if (min > arr[i]) min = arr[i];
+        if (max < arr[i]) max = arr[i];
     }
     printf("\nmin number is : %d", min);
     printf("\nmax number is : %d", max);

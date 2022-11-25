@@ -11,7 +11,8 @@ void main()
     for(i = 1; i <= num / 2; i++) {
         if(num % i == 0 && (i != 1 && i != num)) {            
             total = total + 1;
-            i++;
+            break;
+            // i++;
         }
     }
     (total == 0) ? printf("%d is prime number \n", num) : printf("%d is not prime number \n", num);

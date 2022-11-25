@@ -15,10 +15,12 @@ void main() {
             if(num % i == 0 && (i != 1 && i != num)) {            
 
                 total = total + 1;
-                i++;
+                i++; 
+                break;
                 
             }
         }
+        
         (total == 0) ? printf("%d ", num) : printf("");
     }
 

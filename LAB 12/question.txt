@@ -4,5 +4,5 @@ File:prime-numbers.c
 [+] Write a Programe to print Multiplication Table up to n
 File:table.c
 
-[+] Write a Programe to find the sum of 1 + (1+2) + (1+2+3) + (1+2+3+4) + …+(1+2+3+4+….+n)
+[+] Write a Programe to find the sum of 1 + (1+2) + (1+2+3) + (1+2+3+4) + … +(1+2+3+4+….+n)
 File:sum-of-n.c

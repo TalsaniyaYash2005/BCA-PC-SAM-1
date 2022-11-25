@@ -16,7 +16,7 @@ void main() {
             (i2 == i) ? : printf(" + ");
         }
         printf(")");
-        (i < n2) ? printf(" + ") : printf("");
+        (!(i < n2)) ? : printf(" + ");
         sum = sum + tempsum; 
     }
     printf(" = %d", sum);
