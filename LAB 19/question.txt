@@ -1,0 +1,11 @@
+[+] Write a Programe to print addition of two numbers using a function
+File:addition.c
+
+[+] Write a Programe to count simple interest using function
+File:interest.c
+
+[+] Write a Programe that defines a function to add first n numbers
+File:add-first-n.c
+
+[+] Write a Programe to find maximum number from given two numbers using function
+File:maximum-number.c

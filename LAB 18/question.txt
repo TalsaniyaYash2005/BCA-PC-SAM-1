@@ -1,0 +1,2 @@
+[+] Write a Programe to print value and address of a variable
+File:value-and-address.c
