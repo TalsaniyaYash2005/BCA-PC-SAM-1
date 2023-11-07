@@ -303,6 +303,3 @@ D E F G H I J
 File: [Pattern 5](https://github.com/dhruv-2015/BCA-PC-SAM-1/blob/master/LAB%2014/B/1.c)
 
 ## Feedback
-
-If you have any feedback, please reach out to me at dhruv@chadasaniya.ml
-
